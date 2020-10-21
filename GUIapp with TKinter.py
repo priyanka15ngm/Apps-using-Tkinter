@@ -11,7 +11,7 @@ name_label.grid(row=0,column=0,sticky=tk.W)
 age_label=ttk.Label(win,text='Enter your age :')
 age_label.grid(row=2,column=0,sticky=tk.W)
 
-gender_label=ttk.Label(win,text='Select your age : ')
+gender_label=ttk.Label(win,text='Select your gender : ')
 gender_label.grid(row=3,column=0,sticky = tk.W)
 
 email_label=ttk.Label(win,text='Enter your Email :')
